@@ -1,4 +1,4 @@
-# My attemp at Codility BinaryGap task
+# My attemps at Codility Training Tasks
 
-I tried to do the Codility BinaryGap task, the tests on the codility website seem to have gone correctly :)
+Trynna learn some JAVA
 
